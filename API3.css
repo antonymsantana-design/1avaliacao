@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.conteudo {
+    margin-top: 20px;
+}
+
+.card {
+    background: white;
+    width: 300px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.sprit img {
+    max-height: 300px;
+    object-fit: contain;
+}
+
+.info {
+    text-align: left;
+    margin-top: 15px;
+}
+
+.info p {
+    margin: 5px 0;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 3px;
+}
